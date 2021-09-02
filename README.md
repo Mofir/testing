@@ -1,4 +1,4 @@
-# testing 1...2...3...7
+# testing 1...2...3
 test connection to Jenkins
 BUILD WITH GIT
 
